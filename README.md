@@ -1,5 +1,5 @@
 ## Hey 👋, This is ahmad yunus widodo
-[![Gmail Badge](https://img.shields.io/badge/-younews372@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:younews372@gmail.com)](mailto:younews372@gmail.com) [![Github Badge](https://img.shields.io/badge/-yunuswidodo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yunuswidodo/)](https://www.github.com/yunuswidodo/) <p align='left'>junior programer </p>
+[![Gmail Badge](https://img.shields.io/badge/-younews372@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:younews372@gmail.com)](mailto:younews372@gmail.com) [![Github Badge](https://img.shields.io/badge/-yunuswidodo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yunuswidodo/)](https://www.github.com/yunuswidodo/) <p align='left'>junior programer tes</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=yunuswidodo alt=yunuswidodo /> </p>
 
